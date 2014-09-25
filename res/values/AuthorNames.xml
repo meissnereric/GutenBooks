@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <array name="gutenberg_authors">
+        <item>Hans Christian Andersen</item>
+        <item>Mark Twain</item>
+        <item>Rafael Sabatini</item>
+        <item>Charles Dickens</item>
+        <item>Guy de Maupassant</item>
+        <item>Victor Hugo</item>
+        <item>Leo Tolstoy</item>
+        <item>Rudyard Kipling</item>
+        <item>Rabindranath Tagore</item>
+        <item>William Shakespeare</item>
+    </array>
+    
+</resources>
